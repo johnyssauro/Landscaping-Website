@@ -1,12 +1,16 @@
 body {
 
     background: #AEC29A;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
 
 }
 
 header {
 
-    position: absolute;
+    position: fixed;
+    padding: 1%;
     top: 0%;
     left: 0%;
     height: 80px;
@@ -21,7 +25,7 @@ header a {
     text-decoration: none;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: azure;
-
+    padding: 16px;
 
 }
 
@@ -31,8 +35,8 @@ header a {
     height: 100%;
     width: 100%;
     align-items: center;
-    justify-content: space-evenly;
-    
+    justify-content: left;
+    gap: 7%;  
 
 }
 
@@ -49,7 +53,25 @@ header a {
 
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 2.5em;
-    font-style:oblique;
+    font-style: oblique;
     color: #172512;
+
+}
+
+header div .element a:hover{
+
+    border-radius: 30px;
+    background-color: #fff;
+    color: #172512;
+    transition: 0.6s;
+
+}
+
+header div #signup a{
+
+    border-radius: 30px;
+    background-color: #fff;
+    color: #172512;
+    font-weight: 500;
 
 }

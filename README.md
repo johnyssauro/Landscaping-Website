@@ -7,3 +7,9 @@
 ### 💡An idea:
 
 Training my skills with HTML and CSS, I've got this work at the end. The Figma design is just a little different from the final work.
+
+### 🔎Contacts:
+
+LinkedIn: www.linkedin.com/in/joão-dutra-b1434b263
+
+:information_source: E-mail: joaopedronoronhadutra@gmail.com

@@ -55,6 +55,8 @@ body{
     font-weight: 1000;
     margin-left: 20px;
     font-family: Kodchasan, Inter, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5em;
+    top: 15%;
 
 }
 
@@ -80,6 +82,44 @@ body{
 
 }
 
+#impact{
+
+    position: absolute;
+
+    font-family: Italiana, Inter, Kodchan, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 7em;
+    color: white;
+    right: 10%;
+    top: -2%;
+
+}
+
+#aux1{
+
+    position: absolute;
+
+    font-family: Inter, Italiana, Kodchan, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3em;
+    font-weight: 200;
+    color: #172512;
+    right: 10%;
+    top: 35%;
+
+}
+
+#aux2{
+
+    position: absolute;
+
+    font-family: Inter, Italiana, Kodchan, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3em;
+    font-weight: 200;
+    color: #172512;
+    right: 10%;
+    top: 45%;
+
+}
+
 .image{
 
     z-index: 8;
@@ -88,14 +128,17 @@ body{
 
     right: 0;
 
+    width: 40vw;
     height: 100vh;
-    width: calc(100vh * 1880/2840);
-    background-image: url("suculentacut.jpg");
 
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: cover;
-    background-size: auto;
+}
+
+img {
+
+    object-fit: cover;
+    width: 40vw;
+    height: 100vh;
+    opacity: 0.8;
 
 }
 

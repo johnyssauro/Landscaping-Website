@@ -51,7 +51,7 @@ body{
 }
 .navbar a#logo{
 
-    color: white;
+    color: #172512;
     font-weight: 1000;
     margin-left: 20px;
     font-family: Kodchasan, Inter, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -120,6 +120,64 @@ body{
 
 }
 
+#bellow{
+
+    position: absolute;
+    float: left;
+
+    height: 50px;
+    width: 100%;
+
+    bottom: 15%;
+
+}
+
+#link1{
+
+    position: absolute;
+
+    top: 5%;
+
+    left: 25%;
+    
+
+    font-family: Inter, Italiana, Kodchan, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.3em;
+    color: white;
+    
+    background-color: #172512;
+    border-radius: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+
+}
+
+#link2{
+
+    position: absolute;
+
+    top: 5%;
+
+    right: 10%;
+    
+
+    font-family: Inter, Italiana, Kodchan, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.3em;
+    color: #172512;
+    
+    background-color: #84A45C;
+    border-radius: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+
+}
+
 .image{
 
     z-index: 8;
@@ -141,5 +199,6 @@ img {
     opacity: 0.8;
 
 }
+
 
 

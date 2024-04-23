@@ -10,6 +10,6 @@ Training my skills with HTML and CSS, I've got this work at the end. The Figma d
 
 ### 🔎Contacts:
 
-:mailbox: LinkedIn: www.linkedin.com/in/joão-dutra-b1434b263
+:information_source: LinkedIn: www.linkedin.com/in/joão-dutra-b1434b263
 
-:email: E-mail: joaopedronoronhadutra@gmail.com
+:mailbox: E-mail: joaopedronoronhadutra@gmail.com
